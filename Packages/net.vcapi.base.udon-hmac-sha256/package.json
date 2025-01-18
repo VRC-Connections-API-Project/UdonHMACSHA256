@@ -10,5 +10,8 @@
     "name": "VRC Connections API Project",
     "email": "",
     "url": "https://www.vcapi.net"
+  },
+  "vpmDependencies": {
+    "net.koyashiro.udonsha2": "^0.1.1"
   }
 }
