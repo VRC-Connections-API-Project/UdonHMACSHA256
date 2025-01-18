@@ -1,0 +1,13 @@
+{
+  "name": "net.vcapi.base.udon-hmac-sha256",
+  "displayName": "UdonHMACSHA256",
+  "version": "0.1.0",
+  "unity": "2019.4",
+  "description": "HMAC SHA256 for UdonSharp using Koyashiro's UdonSHA2",
+  "vrchatVersion": "2022.1.1",
+  "author": {
+    "name": "VRC Connections API Project",
+    "email": "",
+    "url": "https://www.vcapi.net"
+  }
+}
