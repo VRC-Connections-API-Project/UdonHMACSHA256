@@ -1,5 +1,6 @@
 {
-    "name": "VCAPI.UdonHMACSHA256",
+    "name": "VCAPI.Base.UdonHMACSHA256",
+    "rootNamespace": "",
     "references": [
         "GUID:8878118d19811f740a6f162253cf6609"
     ],

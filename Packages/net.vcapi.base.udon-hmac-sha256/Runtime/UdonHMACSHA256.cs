@@ -2,7 +2,7 @@
 using System;
 using Koyashiro.UdonSHA2;
 
-namespace VCAPI.Base
+namespace VCAPI.Base.UdonHMACSHA256
 {
     public static class UdonHMACSHA256
     {
